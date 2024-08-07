@@ -1,8 +1,8 @@
-## What is dlog
+## About dlog
 
 dlog (Daily Log): use one line log to record a human's daily life during 10 years, and to see what will happen
 
----
+## Record
 
 运动: 17/34
 
