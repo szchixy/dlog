@@ -4,7 +4,11 @@ dlog (Daily Log): use one line log to record a human's daily life during 10 year
 
 ## Record
 
-运动: 17/34
+运动: 18/35
+
+### 20240807-35
+
+10:00 wake up, publish dlog, post a tweet, have lunch, try to activate Stripe and Lemon Squeezy, bicycling, have dinner, organize documents, sleep
 
 ### 20240806-34
 
