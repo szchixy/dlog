@@ -4,11 +4,15 @@ dlog (Daily Log): use one line log to record a human's daily life during 10 year
 
 ## Record
 
-运动: 19/36
+运动: 20/37
+
+### 20240809-37
+
+11:00 wake up, have lunch, learn frontend systematically, have dinner, learning failed, cycling, sleep
 
 ### 20240808-36
 
-10:00 wake up, watch video "How to Build a Startup Without Funding by Pieter Levels" again, think and write something, have lunch, try react+flask tech stack, have dinner, continue coding, bicycling, sleep
+10:00 wake up, watch video "How to Build a Startup Without Funding by Pieter Levels" again, think and write something, have lunch, try react+flask tech stack, have dinner, continue coding, cycling, sleep
 
 ### 20240807-35
 
